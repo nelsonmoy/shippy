@@ -96,6 +96,7 @@ a {
 }
 .Main_header {
   background: #008000;
+  display: inline-block;
   margin: 0;
   padding: 0;
   padding-top: 0.5rem;
@@ -277,4 +278,7 @@ span.icon-dollar2 {
 .Main_response {
   font-style: italic;
   color: rgba(13,13,13,0.6);
+}
+.shadow {
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
 }
